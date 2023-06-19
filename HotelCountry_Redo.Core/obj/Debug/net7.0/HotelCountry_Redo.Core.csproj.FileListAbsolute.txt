@@ -1,0 +1,17 @@
+C:\Users\DELL\OneDrive\Desktop\ApiProjects\HotelCountry_Redo\HotelCountry_Redo.Core\bin\Debug\net7.0\HotelCountry_Redo.Core.deps.json
+C:\Users\DELL\OneDrive\Desktop\ApiProjects\HotelCountry_Redo\HotelCountry_Redo.Core\bin\Debug\net7.0\HotelCountry_Redo.Core.dll
+C:\Users\DELL\OneDrive\Desktop\ApiProjects\HotelCountry_Redo\HotelCountry_Redo.Core\bin\Debug\net7.0\HotelCountry_Redo.Core.pdb
+C:\Users\DELL\OneDrive\Desktop\ApiProjects\HotelCountry_Redo\HotelCountry_Redo.Core\bin\Debug\net7.0\HotelCountry_Redo.Data.dll
+C:\Users\DELL\OneDrive\Desktop\ApiProjects\HotelCountry_Redo\HotelCountry_Redo.Core\bin\Debug\net7.0\HotelCountry_Redo.Data.pdb
+C:\Users\DELL\OneDrive\Desktop\ApiProjects\HotelCountry_Redo\HotelCountry_Redo.Core\obj\Debug\net7.0\HotelCountry_Redo.Core.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\ApiProjects\HotelCountry_Redo\HotelCountry_Redo.Core\obj\Debug\net7.0\HotelCountry_Redo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\ApiProjects\HotelCountry_Redo\HotelCountry_Redo.Core\obj\Debug\net7.0\HotelCountry_Redo.Core.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\ApiProjects\HotelCountry_Redo\HotelCountry_Redo.Core\obj\Debug\net7.0\HotelCountry_Redo.Core.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\ApiProjects\HotelCountry_Redo\HotelCountry_Redo.Core\obj\Debug\net7.0\HotelCountry_Redo.Core.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\ApiProjects\HotelCountry_Redo\HotelCountry_Redo.Core\obj\Debug\net7.0\HotelCountry_Redo.Core.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Desktop\ApiProjects\HotelCountry_Redo\HotelCountry_Redo.Core\obj\Debug\net7.0\HotelCountry_Redo.Core.dll
+C:\Users\DELL\OneDrive\Desktop\ApiProjects\HotelCountry_Redo\HotelCountry_Redo.Core\obj\Debug\net7.0\refint\HotelCountry_Redo.Core.dll
+C:\Users\DELL\OneDrive\Desktop\ApiProjects\HotelCountry_Redo\HotelCountry_Redo.Core\obj\Debug\net7.0\HotelCountry_Redo.Core.pdb
+C:\Users\DELL\OneDrive\Desktop\ApiProjects\HotelCountry_Redo\HotelCountry_Redo.Core\obj\Debug\net7.0\ref\HotelCountry_Redo.Core.dll
+C:\Users\DELL\OneDrive\Desktop\ApiProjects\HotelCountry_Redo\HotelCountry_Redo.Core\bin\Debug\net7.0\HotelCountry_Redo.Core.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\ApiProjects\HotelCountry_Redo\HotelCountry_Redo.Core\obj\Debug\net7.0\HotelCountry_Redo.Core.genruntimeconfig.cache

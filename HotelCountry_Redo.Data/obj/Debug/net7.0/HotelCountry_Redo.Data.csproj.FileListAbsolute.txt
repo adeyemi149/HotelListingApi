@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Desktop\ApiProjects\HotelCountry_Redo\HotelCountry_Redo.Data\bin\Debug\net7.0\HotelCountry_Redo.Data.deps.json
+C:\Users\DELL\OneDrive\Desktop\ApiProjects\HotelCountry_Redo\HotelCountry_Redo.Data\bin\Debug\net7.0\HotelCountry_Redo.Data.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\ApiProjects\HotelCountry_Redo\HotelCountry_Redo.Data\bin\Debug\net7.0\HotelCountry_Redo.Data.dll
+C:\Users\DELL\OneDrive\Desktop\ApiProjects\HotelCountry_Redo\HotelCountry_Redo.Data\bin\Debug\net7.0\HotelCountry_Redo.Data.pdb
+C:\Users\DELL\OneDrive\Desktop\ApiProjects\HotelCountry_Redo\HotelCountry_Redo.Data\obj\Debug\net7.0\HotelCountry_Redo.Data.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\ApiProjects\HotelCountry_Redo\HotelCountry_Redo.Data\obj\Debug\net7.0\HotelCountry_Redo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\ApiProjects\HotelCountry_Redo\HotelCountry_Redo.Data\obj\Debug\net7.0\HotelCountry_Redo.Data.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\ApiProjects\HotelCountry_Redo\HotelCountry_Redo.Data\obj\Debug\net7.0\HotelCountry_Redo.Data.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\ApiProjects\HotelCountry_Redo\HotelCountry_Redo.Data\obj\Debug\net7.0\HotelCountry_Redo.Data.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\ApiProjects\HotelCountry_Redo\HotelCountry_Redo.Data\obj\Debug\net7.0\HotelCountry_Redo.Data.dll
+C:\Users\DELL\OneDrive\Desktop\ApiProjects\HotelCountry_Redo\HotelCountry_Redo.Data\obj\Debug\net7.0\refint\HotelCountry_Redo.Data.dll
+C:\Users\DELL\OneDrive\Desktop\ApiProjects\HotelCountry_Redo\HotelCountry_Redo.Data\obj\Debug\net7.0\HotelCountry_Redo.Data.pdb
+C:\Users\DELL\OneDrive\Desktop\ApiProjects\HotelCountry_Redo\HotelCountry_Redo.Data\obj\Debug\net7.0\HotelCountry_Redo.Data.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\ApiProjects\HotelCountry_Redo\HotelCountry_Redo.Data\obj\Debug\net7.0\ref\HotelCountry_Redo.Data.dll

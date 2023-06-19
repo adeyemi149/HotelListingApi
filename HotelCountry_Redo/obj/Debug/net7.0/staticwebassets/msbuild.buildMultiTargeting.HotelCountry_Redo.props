@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HotelCountry_Redo.props" />
+</Project>
